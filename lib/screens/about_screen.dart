@@ -124,7 +124,7 @@ class _AboutScreenState extends State<AboutScreen>
           // GitHub link
           InkWell(
             onTap: () => _launchUrl(
-                'https://github.com/Mrhelper-01/ElectricityBill.git'),
+                'https://github.com/Mrhelper-01/electricity_bill_app.git'),
             borderRadius: BorderRadius.circular(12),
             child: Container(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
@@ -139,7 +139,7 @@ class _AboutScreenState extends State<AboutScreen>
                 children: [
                   const Icon(Icons.link, color: AppColors.info, size: 18),
                   const SizedBox(width: 8),
-                  Text('github.com/Mrhelper-01/ElectricityBill.git',
+                  Text('https://github.com/Mrhelper-01/electricity_bill_app.git',
                       style: GoogleFonts.poppins(
                           color: AppColors.info,
                           fontSize: 12,
