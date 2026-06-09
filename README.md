@@ -19,7 +19,7 @@ ElektrikBil is a Flutter Android application that estimates monthly electricity 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Mrhelper-01/ElectricityBill.git
+git clone https://github.com/Mrhelper-01/electricity_bill_app.git
 cd ElectricityBill
 
 # 2. Install dependencies
@@ -136,7 +136,7 @@ google_fonts: ^6.1.0     # Orbitron + Poppins fonts
 [YouTube Demo Link — add after recording]
 
 ## 🔗 GitHub
-https://github.com/Mrhelper-01/ElectricityBill.git
+https://github.com/Mrhelper-01/electricity_bill_app.git
 ---
 
 ## 👤 Author
