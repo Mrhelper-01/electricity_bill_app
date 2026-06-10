@@ -133,7 +133,7 @@ google_fonts: ^6.1.0     # Orbitron + Poppins fonts
 ---
 
 ## 🎥 Demo Video
-[YouTube Demo Link — add after recording]
+https://youtu.be/X05ak4t_93E
 
 ## 🔗 GitHub
 https://github.com/Mrhelper-01/electricity_bill_app.git
